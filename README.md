@@ -1,5 +1,5 @@
 # HexaRoom
-![HexaRoom IRL_Display](Display_IRL.HEIC)
+![HexaRoom IRL_Display](Display_IRL.png)
 ![HexaRoom Display](Display.png)
 ---
 
